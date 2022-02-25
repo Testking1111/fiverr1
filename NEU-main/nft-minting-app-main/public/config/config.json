@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xfE90cEBF47C2742Eba12A285c1929F7aF359aFa2",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0xbd946d15b0d04c185a620b1a0e8d817d859c97048fa1057b714388dd4c929f55",
+  "NETWORK": {
+    "NAME": "Ethereum Mainnet",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Kingking on Fiverr",
+  "SYMBOL": "KingokingOnFiverr",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/solana-hills-nft-v2",
+  "SHOW_BACKGROUND": true
+}
